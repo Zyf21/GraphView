@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         Intent intent=new Intent(MainActivity.this,Main2Activity.class);
         startActivity(intent);
     }
+    //Test
 
     public void grafdata(View view) {
         Intent intentdata=new Intent(MainActivity.this,Main3Activity.class);
